@@ -11,9 +11,13 @@ In the program it allows users to us user names.
 After that the server will display in coming messages that have been collected.
 
 To run the program:
+
 1.Lucht he Server.py and run. 
+
 2.Lunch Client.py
+
 3.Select a user name
+
 4.Now we can see the commutation between the client and the sever.
 
 Challenges
