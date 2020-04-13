@@ -24,8 +24,13 @@ Challenges:
 
 The Challenges that I have found was the fact that I had to work on this project during a very though times. 
 It was very hard for me to work on my project that I have originally choose.
-I hade no choose but to change the topic, I had no where to work, and so much is going on to in my place concentrate.
-To reproduce this project, it is very simple as I have provided links to the videos that helped me. 
+I hade no choose but to change the topic, I had no where to work, and so much is going on to in my place 
+And very hard to concentrate.
+
+
+To reproduce this project:
+
+It is very simple as I have provided links to the videos that helped me. 
 You can us any language you like.
  
  
