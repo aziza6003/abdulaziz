@@ -20,7 +20,8 @@ To run the program:
 
 4.Now we can see the commutation between the client and the sever.
 
-Challenges
+Challenges:
+
 The Challenges that I have found was the fact that I had to work on this project during a very though times. 
 It was very hard for me to work on my project that I have originally choose.
 I hade no choose but to change the topic, I had no where to work, and so much is going on to in my place concentrate.
@@ -30,6 +31,7 @@ You can us any language you like.
  
  
 References:
+
 https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
 https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
 https://www.youtube.com/watch?v=CV7_stUWvBQ HYPERLINK "https://www.youtube.com/watch?v=CV7_stUWvBQ&feature=emb_title"& HYPERLINK "https://www.youtube.com/watch?v=CV7_stUWvBQ&feature=emb_title"feature=emb_title
