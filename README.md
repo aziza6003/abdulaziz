@@ -42,8 +42,8 @@ References:
 
 
 
-https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
-https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
-https://www.youtube.com/watch?v=CV7_stUWvBQ HYPERLINK "https://www.youtube.com/watch?v=CV7_stUWvBQ&feature=emb_title"& HYPERLINK "https://www.youtube.com/watch?v=CV7_stUWvBQ&feature=emb_title"feature=emb_title
-https://www.youtube.com/watch?v=ytu2yV3Gn1I HYPERLINK "https://www.youtube.com/watch?v=ytu2yV3Gn1I&t=3s"& HYPERLINK "https://www.youtube.com/watch?v=ytu2yV3Gn1I&t=3s"t=3s
+1.https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
+2.https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
+3.https://www.youtube.com/watch?v=CV7_stUWvBQ HYPERLINK "https://www.youtube.com/watch?v=CV7_stUWvBQ&feature=emb_title"& HYPERLINK "https://www.youtube.com/watch?v=CV7_stUWvBQ&feature=emb_title"feature=emb_title
+4.https://www.youtube.com/watch?v=ytu2yV3Gn1I HYPERLINK "https://www.youtube.com/watch?v=ytu2yV3Gn1I&t=3s"& HYPERLINK "https://www.youtube.com/watch?v=ytu2yV3Gn1I&t=3s"t=3s
  
