@@ -29,8 +29,13 @@ To reproduce this project, it is very simple as I have provided links to the vid
 You can us any language you like.
  
  
+
+
+
  
 References:
+
+
 
 https://pythonprogramming.net/server-chatroom-sockets-tutorial-python-3/
 https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
